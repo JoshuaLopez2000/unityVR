@@ -131,6 +131,7 @@ MonoBehaviour:
   Player: {fileID: 0}
   attackRange: 8
   detectionRange: 15
+  zRotationOffset: 25
 --- !u!1 &763895898246543137
 GameObject:
   m_ObjectHideFlags: 0
